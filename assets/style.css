@@ -78,14 +78,14 @@ body {
   width: 50%;
   height: 100%;
 }
-.left h2 {
+.left h1 {
   font-size: 34px;
   color: var(--White);
   padding: 0;
   margin: 0;
   /* font-family: "Lexend Deca", sans-serif; */
 }
-.left h2 span {
+.left h1 span {
   color: var(--Soft-violet);
 }
 
@@ -149,10 +149,10 @@ body {
     height: 60%;
     text-align: center;
   }
-  .left h2 {
+  .left h1 {
     padding-bottom: 20px;
   }
-  .left h2 {
+  .left h1 {
     font-size: 22px;
     padding: 12px;
   }
