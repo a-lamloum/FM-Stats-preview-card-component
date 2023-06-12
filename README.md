@@ -8,8 +8,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/a-lamloum/FM-Product-preview-card-component)
-- Live Site URL: [live site](https://a-lamloum.github.io/FM-Product-preview-card-component/)
+- Solution URL: [solution URL](https://github.com/a-lamloum/FM-Stats-preview-card-component)
+- Live Site URL: [live site](https://a-lamloum.github.io/FM-Stats-preview-card-component/)
 
 ### Built with
 
